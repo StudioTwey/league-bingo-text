@@ -181,43 +181,67 @@
 		]
 	},
 	"inclusive": {
-		"aubrey": ["hey aubrey", "__ is up today"],
-		"trey": ["Gameplay degrades as debate rages"],
-		"kaeman": ["flames kaeman", "Kaeman has a house*"],
-		"tom": ["Tom cringes", "Tom gives sage adivce"],
-		"tyler": ["Passive aggressive about content", "All media is a scam"],
-		"philip": [
-			"'Consistent' audio",
-			"Philip says something vaguely racist",
-			"Mutes only Philip",
-			"Philip is rich",
-			"Trust fund"
-		],
-		"tylerM": [
-			"threatens violence",
-			"'where do you live?'"
-		],
-		"videoGames": [
-			"That killed me?",
-			"'There is  no way'",
-			"I'm done with __",
-			"__ is so broken",
-			"Nerf __",
-			"outplay",
-			"Theres no counter play",
-			"__ is so braindead",
-			"thats what that does",
-			"I win this",
-			"suicides",
-			"worth",
-			"has a human response to stress",
-			"pathing...",
-			"thats crazy",
-			"complains about the game",
-			"accidently hits the wrong key",
-			"blames lag",
-			"'This is fine'...it wasn't fine",
-			"__ is cursed"
-		]
+		"aubrey": {
+			"items": ["hey aubrey", "__ is up today"],
+			"excludeDefault": false
+		},
+		"trey": {
+			"items": ["Gameplay degrades as debate rages"],
+			"excludeDefault": false
+		},
+		"kaeman": {
+			"items": ["flames kaeman", "Kaeman has a house*"],
+			"excludeDefault": false
+		},
+		"tom": {
+			"items": ["Tom cringes", "Tom gives sage adivce"],
+			"excludeDefault": false
+		},
+		"tyler": {
+			"items": ["Passive aggressive about content", "All media is a scam"],
+			"excludeDefault": false
+		},
+		"philip": {
+			"items": [
+				"'Consistent' audio",
+				"Philip says something vaguely racist",
+				"Mutes only Philip",
+				"Philip is rich",
+				"Trust fund"
+			],
+			"excludeDefault": false
+		},
+		"tylerM": {
+			"items": [
+				"threatens violence",
+				"'where do you live?'"
+			],
+			"excludeDefault": false
+		},
+		"videoGames": {
+			"items": [
+				"That killed me?",
+				"'There is  no way'",
+				"I'm done with __",
+				"__ is so broken",
+				"Nerf __",
+				"outplay",
+				"Theres no counter play",
+				"__ is so braindead",
+				"thats what that does",
+				"I win this",
+				"suicides",
+				"worth",
+				"has a human response to stress",
+				"pathing...",
+				"thats crazy",
+				"complains about the game",
+				"accidently hits the wrong key",
+				"blames lag",
+				"'This is fine'...it wasn't fine",
+				"__ is cursed"
+			],
+			"excludeDefault": false
+		}
 	}
 }
